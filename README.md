@@ -9,6 +9,6 @@ Zawiera stronę główną i kontaktową.
 Jeśli używasz Node.js:
 ```bash
 npm install
-
-## Licencja
+```
+### Licencja
 Ten projekt jest licencjonowany pod licencja MIT
